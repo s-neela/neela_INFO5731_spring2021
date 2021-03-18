@@ -1,0 +1,101 @@
+Document_ID,Content_Text,Sentiment
+0,amaz movi exist,Positive
+1,went second time watch,Positive
+2,psycholog studi rather superhero flick,Positive
+3,joaquin oscar joker best dark suspens thriller darker dark knight,Positive
+4,venic review,Neutral
+5,final real movi,Positive
+6,good lord,Positive
+7,spoon feed cgi fuel faux drama,Positive
+8,represint real life joker,Positive
+9,oscar phoenix,Positive
+10,critic useless,Positive
+11,joker endgam,Positive
+12,would call masterpiec,Positive
+13,one best act perform ive ever seen,Positive
+14,dont forget smile,Positive
+15,ok film,Neutral
+16,i thought this film was good but i just don't get the hype,Negative
+17,extrem overr,Negative
+18,believ hype,Positive
+19,masterpiec,Positive
+20,great,Positive
+21,great dont know,Negative
+22,that life,Positive
+23,extrem overr,Negative
+24,requiem broken man,Positive
+25,rise joker,Positive
+26,brilliant best joker ive ever seen,Positive
+27,movi decad,Positive
+28,omg get old peopl get stupid,Negative
+29,clown princ crime arriv,Positive
+30,probabl one best comic book movi perform phoenix make speechless end venic,Positive
+31,worthi act perform phoenix worth watch joker smart enough becom joker weve come know,Positive
+32,saw tonight make account tell everyon good,Positive
+33,miser unpleas slog movi noth,Negative
+34,stun,Positive
+35,anyon rate movi poorli clearli doesnt appreci cinema,Positive
+36,yike peopl best movi ever,Negative
+37,bewar anyon hail masterpiec,Negative
+38,dont get,Negative
+39,astonish masterpiec,Positive
+40,nonsens plot,Negative
+41,feel like everyon brain wash,Negative
+42,made account rate disappoint film,Negative
+43,stop compar endgam,Neutral
+44,dc movi,Positive
+45,hour full bad bad mood,Negative
+46,who real joker,Neutral
+47,best dc movi sinc dark knight rise,Positive
+48,joketh movi,Negative
+49,kind letdown,Neutral
+50,best movi year,Positive
+51,joke,Negative
+52,dont believ hype,Negative
+53,garbag hype,Negative
+54,oscar sooner later,Positive
+55,overratedoverhyp,Negative
+56,perfect,Positive
+57,first time write review that good,Positive
+58,mesmer,Positive
+59,dont sheep,Negative
+60,overr badli direct film mislead titl,Negative
+61,overhyp overact proper entertain millenni joker,Negative
+62,no just no,Negative
+63,dont get everyon els seem see,Neutral
+64,insult best comic book villain time,Negative
+65,joker laughter joke matter,Neutral
+66,masterpiec,Positive
+67,best thing dc done sinc dark knight,Positive
+68,amaz movi,Positive
+69,overr bore cheap pretenti movi make dumb peopl feel smarter,Negative
+70,dark seriou tens bad,Negative
+71,spectacular awesom fantast,Positive
+72,gener,Neutral
+73,good film noth joker,Positive
+74,great act terribl film,Neutral
+75,overhyp,Negative
+76,clear shelf oscar,Positive
+77,masterpiec movi year best actor joaquin phoenix,Positive
+78,hat joaquin phoenix,Positive
+79,real joker,Negative
+80,fell asleep,Negative
+81,realli dont understand,Neutral
+82,went blind didnt enjoy realli disappoint,Negative
+83,cinemat masterpiec,Positive
+84,joker outsid crimin,Positive
+85,overact galor,Negative
+86,uncomfort satisfi,Positive
+87,far best dc movi date joaquin phoenix perfect,Positive
+88,joaquin phoenix deliv stori doesnt,Neutral
+89,dark depress,Positive
+90,overhyp movi,Negative
+91,overr overhyp,Negative
+92,masterpiec,Positive
+93,joker,Negative
+94,viewer actual went tiff wit film didnt want believ hype absolut masterpiec phoenix certifi legend,Positive
+95,outstand movi haunt perform best charact develop ever seen,Positive
+96,certain peopl relat,Neutral
+97,perfect everi aspect,Positive
+98,hype real,Positive
+99,masterpiec,Positive
